@@ -8,3 +8,5 @@ $ir0313
 $ls
 ## EUID
 ir0313
+## Favorite Linux Command
+ls
