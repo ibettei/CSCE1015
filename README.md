@@ -6,3 +6,5 @@ Assignment repository for UNT CSCE1015
 
 $ir0313
 $ls
+## EUID
+ir0313
